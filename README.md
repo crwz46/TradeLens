@@ -1,4 +1,4 @@
-# TradeLens
+# TradeLens[![CI](https://github.com/crwz46/TradeLens/actions/workflows/test.yml/badge.svg)](https://github.com/crwz46/TradeLens/actions/workflows/test.yml)
 
 [![Python](https://img.shields.io/badge/Python-3.9%2B-blue)](https://python.org)
 [![License](https://img.shields.io/badge/license-MIT-brightgreen)](LICENSE)
